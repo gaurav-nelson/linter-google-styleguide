@@ -1,6 +1,9 @@
 # linter-google-styleguide
 An Atom package for the [retext-google-styleguide](https://github.com/gaurav-nelson/retext-google-styleguide) module. It uses the Atom Linter package to highlight errors and provide usage advice while writing and editing documents in Atom. Based on [Google Developer Documentation style guide's word list](https://developers.google.com/style/word-list#word-list) 
 
+Inline-style: 
+![linter-google-styleguide](https://raw.githubusercontent.com/gaurav-nelson/linter-google-styleguide/master/linter-google-styleguide.gif)
+
 ## Dependencies
 * [Atom](https://atom.io/)
 * [Atom Linter Package](https://atom.io/packages/linter)
